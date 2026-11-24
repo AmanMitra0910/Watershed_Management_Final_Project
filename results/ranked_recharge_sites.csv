@@ -1,0 +1,16 @@
+rank,type,row,col,x_km,y_km,GWRPI,zone,slope_pct,catchment_km2,priority_score,class
+1,Check dam,17,42,4.2,8.2,4.47,Very high,0.5,4.25,0.8,Priority 1
+2,Check dam,52,27,2.7,4.7,4.26,Very high,1.1,5.13,0.795,Priority 1
+3,Check dam,13,81,8.1,8.6,4.08,High,0.5,3.67,0.795,Priority 1
+4,Check dam,85,10,1.0,1.4,4.35,Very high,1.1,3.49,0.782,Priority 1
+5,Percolation tank,64,6,0.6,3.5,4.38,Very high,0.9,0.64,0.761,Priority 1
+6,Check dam,71,45,4.5,2.8,4.17,Very high,0.7,2.83,0.757,Priority 2
+7,Percolation tank,50,21,2.1,4.9,4.0,High,4.5,2.78,0.729,Priority 2
+8,Percolation tank,75,12,1.2,2.4,4.41,Very high,1.4,0.76,0.721,Priority 2
+9,Percolation tank,71,79,7.9,2.8,3.9,High,1.9,3.86,0.714,Priority 2
+10,Farm pond,81,18,1.8,1.8,4.5,Very high,1.9,0.13,0.669,Priority 2
+11,Farm pond,82,43,4.3,1.7,4.58,Very high,1.5,0.08,0.668,Priority 3
+12,Farm pond,41,65,6.5,5.8,4.14,Very high,1.9,0.23,0.638,Priority 3
+13,Farm pond,65,35,3.5,3.4,4.22,Very high,1.6,0.12,0.633,Priority 3
+14,Farm pond,77,26,2.6,2.2,4.0,High,4.9,0.29,0.621,Priority 3
+15,Farm pond,53,69,6.9,4.6,3.96,High,1.8,0.25,0.619,Priority 3
